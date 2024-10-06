@@ -14,7 +14,7 @@
 
 1. Fork the repo
 
-<a href='https://github.com/Fred1e/Fredi_Md/fork' target="_blank"><img alt='fork bot repo here' src='https://img.shields.io/badge/fork repo-black?style=for-the-badge&logo=git&logoColor=blue'/></a>
+<a href='https://github.com/Fred1e/Fredi_Md/fork' target="_blank"><img alt='fork bot repo here' src='https://img.shields.io/badge/fork repo-black?style=for-the-badge&logo=github&logoColor=blue'/></a>
 
 
 
@@ -164,6 +164,24 @@ Get session id by (PAIRING CODE2)
   </details>
 
 
+
+
+##
+
+
+
+#### ***This One Is Another Fredie Take Safe Bot In Heroku Called Lucky Md Open 🔓 There To Check ☑ This Have More Than 300 Plugins Enjoy***
+</details>
+
+<details>
+<summary>Tap To Check Lucky Md💯</summary>
+ Lucky Md Info
+    <a href='https://github.com/Fred1e/LUCKY_MD' target="_blank"><img alt='Open Lucky Md Repo Here😁' src='https://img.shields.io/badge/Open Lucky Md Repo Here😁-black?style=for-the-badge&logo=github&logoColor=green'/></a>
+
+
+All Information About Me 
+    <a href='https://fredi-bio.vercel.app/' target="_blank"><img alt='Owner Info Tap Here😎' src='https://img.shields.io/badge/Owner Info Tap Here😎-black?style=for-the-badge&logo=google&logoColor=red'/></a>
+</details>
    
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
